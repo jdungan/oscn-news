@@ -1,0 +1,49 @@
+2025-02-19 10:25:46,905 - INFO - Starting podcast creation from podcast_script_20250218_152917.txt
+2025-02-19 10:25:46,905 - INFO - Starting to parse script: podcast_script_20250218_152917.txt
+2025-02-19 10:25:46,906 - INFO - Parsed 20 segments from script
+2025-02-19 10:25:46,906 - INFO - Processing segment 1/20
+2025-02-19 10:25:46,906 - INFO - Processing segment 2/20
+2025-02-19 10:25:46,906 - INFO - Generating audio for segment - Emotion: Cheerful voice
+2025-02-19 10:25:49,692 - INFO - Successfully generated audio segment (151301 bytes)
+2025-02-19 10:25:49,692 - INFO - Processing segment 3/20
+2025-02-19 10:25:49,692 - INFO - Processing segment 4/20
+2025-02-19 10:25:49,692 - INFO - Processing segment 5/20
+2025-02-19 10:25:49,693 - INFO - Generating audio for segment - Emotion: Excited tone
+2025-02-19 10:25:55,149 - INFO - Successfully generated audio segment (372819 bytes)
+2025-02-19 10:25:55,150 - INFO - Processing segment 6/20
+2025-02-19 10:25:55,151 - INFO - Generating audio for segment - Emotion: Dramatic tone
+2025-02-19 10:26:00,954 - INFO - Successfully generated audio segment (400404 bytes)
+2025-02-19 10:26:00,956 - INFO - Processing segment 7/20
+2025-02-19 10:26:00,956 - INFO - Generating audio for segment - Emotion: Curious tone
+2025-02-19 10:26:04,041 - INFO - Successfully generated audio segment (213159 bytes)
+2025-02-19 10:26:04,043 - INFO - Processing segment 8/20
+2025-02-19 10:26:04,043 - INFO - Processing segment 9/20
+2025-02-19 10:26:04,043 - INFO - Generating audio for segment - Emotion: Engaging tone
+2025-02-19 10:26:09,210 - INFO - Successfully generated audio segment (309707 bytes)
+2025-02-19 10:26:09,213 - INFO - Processing segment 10/20
+2025-02-19 10:26:09,213 - INFO - Generating audio for segment - Emotion: Intrigued tone
+2025-02-19 10:26:13,830 - INFO - Successfully generated audio segment (313469 bytes)
+2025-02-19 10:26:13,832 - INFO - Processing segment 11/20
+2025-02-19 10:26:13,832 - INFO - Generating audio for segment - Emotion: Thoughtful tone
+2025-02-19 10:26:18,080 - INFO - Successfully generated audio segment (277942 bytes)
+2025-02-19 10:26:18,080 - INFO - Processing segment 12/20
+2025-02-19 10:26:18,080 - INFO - Processing segment 13/20
+2025-02-19 10:26:18,080 - INFO - Generating audio for segment - Emotion: Enthusiastic tone
+2025-02-19 10:26:23,560 - INFO - Successfully generated audio segment (373655 bytes)
+2025-02-19 10:26:23,564 - INFO - Processing segment 14/20
+2025-02-19 10:26:23,564 - INFO - Generating audio for segment - Emotion: Surprised tone
+2025-02-19 10:26:27,876 - INFO - Successfully generated audio segment (278360 bytes)
+2025-02-19 10:26:27,879 - INFO - Processing segment 15/20
+2025-02-19 10:26:27,879 - INFO - Processing segment 16/20
+2025-02-19 10:26:27,879 - INFO - Generating audio for segment - Emotion: Compassionate tone
+2025-02-19 10:26:33,013 - INFO - Successfully generated audio segment (352757 bytes)
+2025-02-19 10:26:33,015 - INFO - Processing segment 17/20
+2025-02-19 10:26:33,015 - INFO - Generating audio for segment - Emotion: Caring tone
+2025-02-19 10:26:38,458 - INFO - Successfully generated audio segment (368222 bytes)
+2025-02-19 10:26:38,464 - INFO - Processing segment 18/20
+2025-02-19 10:26:38,464 - INFO - Processing segment 19/20
+2025-02-19 10:26:38,464 - INFO - Generating audio for segment - Emotion: Concluding tone
+2025-02-19 10:26:42,915 - INFO - Successfully generated audio segment (277942 bytes)
+2025-02-19 10:26:42,921 - INFO - Processing segment 20/20
+2025-02-19 10:26:42,923 - INFO - Podcast saved to podcast_output.mp3
+2025-02-19 10:26:42,924 - INFO - Total processing time: 0:00:56.018209

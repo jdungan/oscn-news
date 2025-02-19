@@ -1,0 +1,37 @@
+[Intro music]
+
+Host: (Cheerful voice) Welcome, listeners, to another episode of the Oklahoma Legal Roundup, the podcast where we bring you the latest news and developments in Oklahoma law. I'm your host, [Name], and today we've got some interesting cases for you. So let's dive right in.
+
+[First Story: Firefighter Pension and Retirement Plan]
+
+Host: (Excited tone) Our first story involves a dispute over firefighter pension benefits in Oklahoma. Luther Gregory Cummings, a retired firefighter, chose to participate in the Oklahoma Firefighters Pension and Retirement Plan B program. His former spouse, Brenda Sasnett, wanted a share of those benefits based on their divorce decree. But the decree didn't specify the allocation of Plan B benefits.
+
+Host: (Dramatic tone) The district court ruled in favor of Sasnett, but the Court of Civil Appeals reversed that decision, stating the Plan B account was not marital property. The Oklahoma Supreme Court disagreed and held that when a vested firefighter elects the Plan B option after a divorce is final, the Plan B account is divisible marital property to the extent that any funds in the account are attributable to the marital years.
+
+Host: (Curious tone) So, what does this mean? Well, the Court of Civil Appeals' opinion was vacated, and the district court's judgment was affirmed. In other words, Sasnett will get her share of the marital portion of Cummings' Plan B benefits.
+
+[Second Story: Subpoena Duces Tecum]
+
+Host: (Engaging tone) Moving on, we have a case about a subpoena duces tecum in Oklahoma. Christopher Charles Jolley petitioned the Supreme Court to vacate a lower court's order quashing a subpoena to an expert property appraiser, Robert Grace. Jolley wanted to discover how much income Grace had received as an expert witness in past condemnation actions.
+
+Host: (Intrigued tone) The Supreme Court held that the issuance of a subpoena duces tecum is not among the methods prescribed by the Oklahoma Discovery Code to discover an expert's financial information. However, the Code does permit a party to discover an expert's compensation and a list of cases the expert has testified for in the past four years.
+
+Host: (Thoughtful tone) The Court believed that this limit reasonably balances the litigant's need to uncover potential bias against the expert's privacy. And recognizes the diminishing returns and chilling effects of a "shotgun" approach to pretrial discovery. So, the writ of prohibition was denied.
+
+[Third Story: Attorney Fees and Costs]
+
+Host: (Enthusiastic tone) Our third story is about attorney fees and costs in Oklahoma. The plaintiffs in Rowan v. State Farm Fire & Casualty Co. sought attorney fees and costs under Oklahoma statute 36 O.S. § 3629(B) after a jury verdict in their favor. However, the district court denied their request, stating that no written proof of loss had been submitted.
+
+Host: (Surprised tone) The Oklahoma Supreme Court disagreed and reversed the decision. The Court ruled that the statute does not require a written proof of loss from the plaintiffs before they can receive attorney fees and costs. The case was remanded back to the district court for determination of the amount of attorney fees and costs.
+
+[Fourth Story: Adoption without Consent]
+
+Host: (Compassionate tone) Our final story is about a contested adoption case in Oklahoma. The mother, N.J.B., argued that the trial court erred by granting an adoption without her consent based on her failure to comply with a child support order. The Court of Appeals found that the mother had willfully failed to pay child support, but the Oklahoma Supreme Court reversed that decision.
+
+Host: (Caring tone) The Court determined that the trial court abused its discretion by not considering federal stimulus payments that the mother believed should have been credited to her child support debt. The evidence did not support a finding that the mother had willfully failed to pay child support in substantial compliance with the court order for twelve consecutive months. The case was remanded for further proceedings.
+
+[Outro music]
+
+Host: (Concluding tone) And that wraps up today's episode of the Oklahoma Legal Roundup. I hope you found this information interesting and informative. If you have any questions or comments, please leave them below. And don't forget to subscribe and share this podcast with your friends and colleagues. Until next time, keep it legal, Oklahoma!
+
+[End of script]
